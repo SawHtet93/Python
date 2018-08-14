@@ -25,4 +25,5 @@ Methamatic operator   = * + -  , first do ()
 Python Support Operator = http://www.tutorialspoint.com/python/python_basic_operators.htm
 
 input()                 = user input
+appent()              = to add array index
 
