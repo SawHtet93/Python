@@ -26,4 +26,4 @@ Python Support Operator = http://www.tutorialspoint.com/python/python_basic_oper
 
 input()                 = user input
 appent()              = to add array index
-
+tubles,list           = like array ,tubles is can't change , list can change value
