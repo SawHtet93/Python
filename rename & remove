@@ -1,0 +1,3 @@
+import os
+os.rename ("C:/Users/ICT/OneDrive/Documents/GitHub/Python/text.txt","C:/Users/ICT/OneDrive/Documents/GitHub/Python/new.txt")
+os.remove("C:/Users/ICT/OneDrive/Documents/GitHub/Python/new.txt")
