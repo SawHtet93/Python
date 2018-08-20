@@ -7,6 +7,13 @@ class student:
       self.name = name  #for s1.name
       self.age = age    #for s1.age
       print("the name is {} age is".format(name,age))
+#Constructor Methon  user for initializate function
+  def __init__(self):
+      print("you are Welcome")
+
+  
+
+
 #s1 = student()
 #s1.details("saw",25)
 #s1.name
