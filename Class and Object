@@ -1,0 +1,13 @@
+#Class is just template, class contain data type and function
+
+#Object is instance of class
+
+class student:
+  def details(self,name,age):
+      self.name = name  #for s1.name
+      self.age = age    #for s1.age
+      print("the name is {} age is".format(name,age))
+#s1 = student()
+#s1.details("saw",25)
+#s1.name
+#s1.age
