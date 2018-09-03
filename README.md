@@ -29,3 +29,6 @@ input()                 = user input
 appent()              = to add array index
 
 tubles,list           = like array ,tubles is can't change , list can change value
+
+
+https://www.tutorialspoint.com/python/python_classes_objects.htm
