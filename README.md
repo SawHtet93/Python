@@ -2,15 +2,7 @@
 Python Note
 
 
-
-
-http://free-pot.blogspot.com/p/blog-page.html
-
-http://free-pot.blogspot.com/2018/03/python-ebooks-free-downloads.html
-
-http://free-pot.blogspot.com/2018/03/89-free-python-ebook-download-second.html
-
-http://free-pot.blogspot.com/2018/03/37-free-raspberry-pi-ebook-download.html
+https://free-pot.blogspot.com/2018/04/python-programming-udemy-full-course.html
 
 
 
@@ -29,6 +21,19 @@ input()                 = user input
 appent()              = to add array index
 
 tubles,list           = like array ,tubles is can't change , list can change value
+
+_                     = restore last result
+
+import py_compile     =  for manual compile
+
+source code >>> byte code >>>> virtual Machine PVM  (compile process)
+
+when compile if dir have write access output .pyc file
+
+Python Keywords
+
+and, as, assert, break, class, continue, def, del, elif, else, except, exec, finally, for, from, global, if, import, in, is, lambda, not, or, pass, print, raise, return, try, while, with, yield
+Changing Data
 
 
 https://www.tutorialspoint.com/python/python_classes_objects.htm
